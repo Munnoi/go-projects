@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Learn Go",
+      "done": true
+    },
+    {
+      "id": 2,
+      "name": "Build a CLI task manager",
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "Walk the dog",
+      "done": false
+    }
+  ]
+}
